@@ -1,2 +1,3 @@
-# Avoid-O-Bot
-Avoid-O-Bot is an autonomous robot that uses sensors such as ultrasonic sensor , to detect obstacles in its path and navigate around them. 
+Avoid-O-Bot is  an obstacle-avoiding robot. As the name suggests, this robot is specifically designed to avoid obstacles in its path. It is equipped with sensors, such as ultrasonic or infrared sensors, that allow it to detect obstacles and avoid collisions. The Avoid-O-Bot typically has a simple design with a chassis, wheels, and motor drivers, and is controlled by a microcontroller.
+
+When the robot detects an obstacle in its path, it stops, assesses the obstacle, and then navigates around it by turning or changing direction. The Avoid-O-Bot can be used in a variety of applications, including surveillance, exploration, and transportation. 
