@@ -22,7 +22,7 @@ void setup() {
 }
 
 void loop() {
-  // Send a 10 microsecond pulse to the ultrasonic sensor to trigger a reading
+  // Send a 10-microsecond pulse to the ultrasonic sensor to trigger a reading
   digitalWrite(trigPin, LOW);
   delayMicroseconds(2);
   digitalWrite(trigPin, HIGH);
