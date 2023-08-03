@@ -6,7 +6,6 @@
 
 = Project: {Project}
 
-Describe your project
 
 == Step 1: Installation
 Please describe the steps to install this project.
@@ -51,9 +50,3 @@ Add the bill of the materials you need for this project.
 | A1 | Arduino Uno  | ABX00066    | 1
   M1.  Relay Module    
 |===
-
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
